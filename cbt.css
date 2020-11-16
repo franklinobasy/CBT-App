@@ -1,0 +1,78 @@
+QWidget#main {
+    background-color: #d6e5ec;
+    border-radius: 10px
+}
+
+QWidget#main1 {
+    background-color: #d6e5ec;
+    border-radius: 10px
+}
+
+QLabel {
+    color: White;
+}
+
+QLabel#main {
+    color: rgb(20, 19, 19);
+}
+
+QPushButton {
+    background-color: white;
+    border-radius: 12;
+    padding: 8px;
+    border-style: solid;
+}
+
+QPushButton:hover {
+    background-color: greenyellow;
+    border-radius: 12;
+    padding: 8px;
+    border-style: solid;
+}
+
+QLabel#q_number {
+    color: Orange;
+    background-color: yellow;
+    border-radius: 10;
+    padding: 2px;
+}
+
+QGroupBox#question {
+    background-color: #175b70;
+    border-radius: 10;
+    padding: 2px;
+    border-width: 3px;
+    border-color: yellow;
+    border-style: solid;
+}
+
+QTextEdit#question {
+    color: whitesmoke;
+    background-color: #175b70;
+    border-radius: 10;
+    padding: 2px;
+}
+
+QHBoxLayout#options {
+    border-width: 5px;
+    border-color: yellow;
+    border-radius: 10px;
+}
+
+QRadioButton#options {
+    color: rgb(7, 8, 8);
+}
+
+QLineEdit {
+    border-radius: 10px;
+    color: white;
+    background-color: #c92108;
+    padding: 10;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
+
+QMessageBox {
+    color: black;
+}
